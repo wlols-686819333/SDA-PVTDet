@@ -1,2 +1,2 @@
 # SDA-PVTDet
- A detector for balde casting defect detection
+ A detector for blade casting defect detection
